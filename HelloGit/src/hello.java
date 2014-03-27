@@ -1,6 +1,5 @@
-
 public class hello {
 	public static void main(String [] arg){
-		System.out.println("¸ÁÇÒ±êÇãºê°³³ð¾Æ");
+		System.out.println("Fucking gitHub");
 	}
 }
